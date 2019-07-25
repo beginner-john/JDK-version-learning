@@ -8,7 +8,7 @@ package LeanJDK7;
  *   这是java编译器在底层进行自动拆箱，而枚举类有一个ordinal方法，该方法实际上是一个int类型的数值。
  *   JDK7开始支持String类型
  */
-public class NewFeatures1 {
+public class NewFeaturesBySwitch {
 
     public static void main(String[] args) {
 
